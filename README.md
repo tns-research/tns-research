@@ -11,6 +11,12 @@ Everything we learn there ends up as a tool, open source when we can. On the sid
 <a href="https://github.com/tns-research/counterpoint"><img src="assets/r3.png" alt="counterpoint" width="49%"></a><a href="https://github.com/tns-research/agent-evals"><img src="assets/r4.png" alt="agent-evals" width="49%"></a>
 </p>
 
+**Preprints** (SSRN, 2026)
+
+- [When Reasoning Scaffolds Backfire: Structured Prompting Creates Systematic Failure Under Constraint Inversion](https://doi.org/10.2139/ssrn.6862624)
+- [Large Language Models in Financial Decision-Making: A Methodological Framework for Evaluating AI Trading Strategies](https://doi.org/10.2139/ssrn.6234878)
+- [Reasoning Into Confidence: A Controlled Single-Trader Ablation of In-Decision Chain-of-Thought on LLM Trading Performance and Calibration](https://doi.org/10.2139/ssrn.6946379)
+
 <img src="assets/l1.png" alt="// tools we build" width="100%">
 
 <p align="center">
@@ -26,6 +32,7 @@ Everything we learn there ends up as a tool, open source when we can. On the sid
 
 <p>
   <a href="https://swanbase.co/en/studio/"><img src="https://img.shields.io/badge/all_tools-A855F7?style=for-the-badge" alt="studio"></a>
+  <a href="https://orcid.org/0009-0002-6728-0169"><img src="https://img.shields.io/badge/ORCID-0009--0002--6728--0169-030619?style=for-the-badge&logo=orcid&logoColor=A6CE39" alt="ORCID"></a>
   <a href="https://www.linkedin.com/in/sitjar/"><img src="https://img.shields.io/badge/LinkedIn-030619?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://x.com/joinswanbase"><img src="https://img.shields.io/badge/@joinswanbase-030619?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
 </p>
